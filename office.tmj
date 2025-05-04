@@ -394,14 +394,19 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/www.tutorialspoint.com\/whiteboard.htm"
+                         "value":"https:\/\/webwhiteboard.com\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"space for Whiteboard"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -536,7 +541,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/thm-de.zoom.us\/j\/66599741706?pwd=dHFwhiPYTPI6yZcdvAUb40HvIezxYB.1#success"
                         }, 
@@ -1824,7 +1829,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/moodle-ext.thm.de\/course\/section.php?id=2876#module-10051"
                         }, 
