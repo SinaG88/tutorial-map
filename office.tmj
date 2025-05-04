@@ -396,7 +396,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/webwhiteboard.com\/"
+                         "value":"https:\/\/www.tutorialspoint.com\/whiteboard.htm"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
